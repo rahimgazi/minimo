@@ -1,0 +1,379 @@
+/*/font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif;* */
+* {
+    margin: 0%;
+    padding: 0%;
+    color: #626262;
+    background: transparent;
+    border: none;
+    /* border-bottom: 1px solid; */
+}
+
+header {
+    margin-left: 5%;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.logo {
+    width: 20%;
+}
+
+nav {
+    width: 50%;
+}
+
+nav ul {
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    font-family: 'Playfair Display', serif;
+    color: 626262;
+    color: #626262;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.banner {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.photodairy {
+    width: 80%;
+    margin-left: 10%;
+    /* margin: 50px; */
+    padding: 50px 0;
+}
+
+.photodairy h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.photodairy h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.photodairy p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.photodairy h5 {
+    font-family: 'Ubuntu', sans-serif;
+    /* color: #626262; */
+    /* font-size: 14px; */
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.lifestyle {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    padding: 30px 0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.lifestyle_one {
+    width: 45%;
+}
+
+.lifestyle_one img {
+    width: 100%;
+}
+
+.lifestyle_one h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_one h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_one p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.lifestyle_one {
+    width: 45%;
+}
+
+.lifestyle_two {
+    width: 45%;
+}
+
+.lifestyle_two img {
+    width: 100%;
+}
+
+.lifestyle_two h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_two h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_two P {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.lifestyle_three p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.lifestyle_three {
+    width: 45%;
+}
+
+.lifestyle_three img {
+    width: 100%;
+}
+
+.lifestyle_three h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_three h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_three p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.lifestyle_four {
+    width: 45%;
+}
+
+.lifestyle_four img {
+    width: 100%;
+}
+
+.lifestyle_four h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_four h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_four p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.newslater {
+    padding: 100px 0;
+    background-color: #f0f0f0;
+    padding: 60px 0;
+}
+
+.newslater-content {
+    width: 40%;
+    margin: auto;
+}
+
+.newslater-content h1 {
+    font-size: 37px;
+    padding-bottom: 40px;
+}
+
+.newslater-content input {
+    width: 94%;
+    border: none;
+    outline: none;
+    padding-left: 22px;
+}
+
+.lifelaststyle- {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    padding: 30px 0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.lifestyle_five {
+    width: 45%;
+}
+
+.lifestyle_five img {
+    width: 100%;
+}
+
+.lifestyle_five h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_five h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_five p {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.lifestyle_six {
+    width: 45%;
+}
+
+.lifestyle_six img {
+    width: 100%;
+}
+
+.lifestyle_six h6 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-top: 30px;
+}
+
+.lifestyle_six h1 {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.lifestyle_six P {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.loadmore {
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.loadmore button {
+    border: none;
+    background: transparent;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.last-footer {
+    padding: 80px 0;
+    background-color: #f0f0f0;
+}
+
+.footer-content {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.term {
+    width: -1px;
+    width: 20%;
+}
+
+.term ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.term ul li {
+}
+
+.follow {
+    width: 11%;
+}
+
+.follow ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.follow ul li {
+    width: -1px;
+}
